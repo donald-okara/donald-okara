@@ -1,5 +1,3 @@
-Creating a compelling GitHub profile readme is essential for showcasing your skills and projects. Here's a guide to help you craft an impressive GitHub profile readme:
-
 ### Profile README for Donald Okara
 
 #### Data Scientist | IT Student | Machine Learning Enthusiast

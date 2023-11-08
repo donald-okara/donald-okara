@@ -4,7 +4,7 @@ Creating a compelling GitHub profile readme is essential for showcasing your ski
 
 #### Data Scientist | IT Student | Machine Learning Enthusiast
 
-Hey there! I'm Donald Okara, a passionate data scientist and IT student with a strong focus on machine learning and data science. Welcome to my GitHub profile, where I share my projects and contributions to the tech community. Feel free to explore my work and get in touch if you have any questions or collaborations in mind.
+Hey there! I'm Donald Okara, a passionate data scientist with a strong focus on machine learning and data science. Welcome to my GitHub profile, where I share my projects and contributions to the tech community. Feel free to explore my work and get in touch if you have any questions or collaborations in mind.
 
 #### ⚡ Fun fact:
 - I am currently unbeaten in thumb wrestling.

@@ -30,7 +30,7 @@ Hey there! I'm Donald Okara, a passionate data scientist with a strong focus on 
 
 #### 📩 Contact Me
 
-Feel free to reach out if you have any questions, ideas, or opportunities for collaboration. You can contact me through [email](isoedonald@gmail.com), [LinkedIn](https://www.linkedin.com/in/donald-isoe-a21310255/) or [Twitter](https://twitter.com/don_okara)
+Feel free to reach out if you have any questions, ideas, or opportunities for collaboration. You can contact me through [Email](isoedonald@gmail.com), [LinkedIn](https://www.linkedin.com/in/donald-isoe-a21310255/) or [Twitter](https://twitter.com/don_okara)
 
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!

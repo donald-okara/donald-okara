@@ -27,7 +27,7 @@ Hey there! I'm Donald Okara, a passionate data scientist with a strong focus on 
 - Leader of machine learning and data science study jams with 50+ students.
 - Speaker at seminars held by GDSC on machine learning and data science.
 
-  ##### Data Science Africa Community (DSAC)
+##### Data Science Africa Community (DSAC)
 - Data Science Africa Community (DSAC) Learn Ambassador, promoting educational programs and organizing workshops.
 
 

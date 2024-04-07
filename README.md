@@ -1,4 +1,4 @@
-## Data Scientist | Machine Learning Enthusiast
+## Data Scientist | Machine Learning Engineer | MLOPS engineer
 
 Hey there! I'm Donald Okara, a passionate data scientist with a strong focus on machine learning and data science. Welcome to my GitHub profile, where I share my projects and contributions to the tech community. Feel free to explore my work and get in touch if you have any questions or collaborations in mind.
 

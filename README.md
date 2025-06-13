@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-As featured on the [Kotlin Kenya newsletter](https://kotlinkenya.vercel.app/newsletter/episode-27) 
-  </p>
+  As featured on the <a href="https://kotlinkenya.vercel.app/newsletter/episode-27">Kotlin Kenya newsletter</a>
+</p>
+
 
 - Android Developer at Mentorlst 💼
 - Working on Android apps with Jetpack Compose 💻

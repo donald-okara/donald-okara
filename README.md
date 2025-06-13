@@ -11,6 +11,7 @@
 - [How to build a progress bar in Jetpack Compose](https://medium.com/@donaldokara123/how-to-build-a-progress-bar-in-jetpack-compose-7482643833f0)
 - [Compose Previews Done Right (After Doing Them Wrong)](https://medium.com/@donaldokara123/compose-previews-done-right-after-doing-them-wrong-ccd8ee990cf8)
 
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/donald-isoe-a21310255/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>

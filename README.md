@@ -1,2 +1,1 @@
-## Android Developer
-I am an Android developer with a strong background in machine learning. I have a passion for building innovative and user-friendly mobile applications that leverage the latest advancements in artificial intelligence. I am proficient in various Android development tools and technologies, including Kotlin, Java, and Android Studio. My expertise in machine learning enables me to integrate cutting-edge AI features into mobile applications, creating immersive and engaging user experiences.
+<h1 align="center"><u>Hi 👋, I am Don</u></h1>

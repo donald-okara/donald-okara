@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  As featured on the <a href="https://kotlinkenya.vercel.app/newsletter/episode-27">Kotlin Kenya newsletter</a>
+ 📰 As featured on the <a href="https://kotlinkenya.vercel.app/newsletter/episode-27">Kotlin Kenya newsletter</a>
 </p>
 
 

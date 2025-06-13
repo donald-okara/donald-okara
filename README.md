@@ -3,7 +3,10 @@
   <img src="droidy-animation.gif" alt="Droidy character" width="200"/>
 </p>
 
-- As featured on the [Kotlin Kenya newsletter](https://kotlinkenya.vercel.app/newsletter/episode-27) 
+<p align="center">
+As featured on the [Kotlin Kenya newsletter](https://kotlinkenya.vercel.app/newsletter/episode-27) 
+  </p>
+
 - Android Developer at Mentorlst 💼
 - Working on Android apps with Jetpack Compose 💻
 

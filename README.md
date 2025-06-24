@@ -16,7 +16,7 @@
 - [Compose Previews Done Right (After Doing Them Wrong)](https://medium.com/@donaldokara123/compose-previews-done-right-after-doing-them-wrong-ccd8ee990cf8)
 
 ## Tech stack
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000?logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVVM-%236DB33F"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-%236DB33F"/>

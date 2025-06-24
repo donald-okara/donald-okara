@@ -37,8 +37,6 @@
 </p>
 
 
-
----
 ## Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/donald-isoe-a21310255/">

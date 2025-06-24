@@ -15,6 +15,38 @@
 - [How to build a progress bar in Jetpack Compose](https://medium.com/@donaldokara123/how-to-build-a-progress-bar-in-jetpack-compose-7482643833f0)
 - [Compose Previews Done Right (After Doing Them Wrong)](https://medium.com/@donaldokara123/compose-previews-done-right-after-doing-them-wrong-ccd8ee990cf8)
 
+## Tech stack
+<p>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%23000000?logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVVM-%236DB33F"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%236DB33F"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Retrofit-%23000000?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Room-%23A8B9CC?logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%23CC2927?logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-%2300E5B1?logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ktor-%23000000?logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ktor%20Client-%23000000?logo=kotlin&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Hilt-%23A97BFF?logo=dagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Koin-%23000000?logo=kotlin&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05033?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-%2300C7B7?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5?logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Crashlytics-%2300C7B7?logo=firebase&logoColor=white"/>
+</p>
+
+
+
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/donald-isoe-a21310255/">

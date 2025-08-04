@@ -53,9 +53,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/donaldokara">
-    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" height="50">
-  </a>
-</p>
-

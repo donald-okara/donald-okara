@@ -3,17 +3,8 @@
   <img src="droidy-animation.gif" alt="Droidy character" width="200"/>
 </p>
 
-<p align="center">
- 📰 As featured on the <a href="https://kotlinkenya.vercel.app/newsletter/episode-27">Kotlin Kenya newsletter</a>
-</p>
-
-
 - Android Developer at Mentorlst 💼
 - Working on Android apps with Jetpack Compose 💻
-
-## Technical articles
-- [How to build a progress bar in Jetpack Compose](https://medium.com/@donaldokara123/how-to-build-a-progress-bar-in-jetpack-compose-7482643833f0)
-- [Compose Previews Done Right (After Doing Them Wrong)](https://medium.com/@donaldokara123/compose-previews-done-right-after-doing-them-wrong-ccd8ee990cf8)
 
 ## Tech stack
 <p align="center">

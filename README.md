@@ -1,9 +1,16 @@
+
+
 <h1 align="center"><u>Hi 👋, I am Don</u></h1>
 <p align="center">
   <img src="droidy-animation.gif" alt="Droidy character" width="200"/>
 </p>
 
-- Android Developer at Mentorlst 💼
+<p align="center">
+  <a href="https://pickle-airboat-6c0.notion.site/Donald-Isoe-s-Portfolio-2b2ba5b1989a804096b4d595f24bbac7">
+    <b>📄 View My Full Portfolio</b>
+  </a>
+</p>
+
 - Working on Android apps with Jetpack Compose 💻
 
 ## Tech stack
@@ -29,7 +36,6 @@
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?logo=androidstudio&logoColor=white"/>
 </p>
 
-
 ## Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/donald-isoe-a21310255/">
@@ -45,4 +51,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" height="20"/>
   </a>
 </p>
-
